@@ -1,5 +1,6 @@
 {
-    "name": "kenjis/ci-phpunit-test-php82",
+    "name": "nguyenvantruc92/ci-phpunit-test-php82",
+    "type": "library",
     "description": "An easier way to use PHPUnit with CodeIgniter 3.x",
     "keywords": [
         "phpunit",
