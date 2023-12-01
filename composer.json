@@ -1,5 +1,5 @@
 {
-    "name": "kenjis/ci-phpunit-test",
+    "name": "kenjis/ci-phpunit-test-php82",
     "description": "An easier way to use PHPUnit with CodeIgniter 3.x",
     "keywords": [
         "phpunit",
